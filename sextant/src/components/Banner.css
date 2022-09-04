@@ -1,0 +1,22 @@
+.banner {
+    height: 30vh;
+    width: 100%;
+    background-color: black;
+    margin-bottom: 15px;
+}
+
+.banner > h1 {
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-family: Raleway;
+    margin: auto;
+    margin-top: -40px; 
+    margin-left: 580px;
+}
+
+.banner #logo {
+    width: 60px;
+    height: 40px;
+    margin-top: 80px;
+    margin-left: 500px;
+}

@@ -1,0 +1,30 @@
+.card{
+    height: fit-content;
+    width: 80%;
+    border-radius: 1em;
+    background-color: transparent;
+    border: 1px solid gray;
+    margin: auto;
+    margin-bottom: 15px;
+}
+
+.card > h3{
+    font-family: Raleway;
+    font-size: 20px;
+    color: rgb(88, 8, 8);
+    align-items: left;
+    margin-left: 10px;
+}
+
+.card > p {
+    font-family: Raleway;
+    font-size: 17px;
+    padding: 5px;
+    color: black;
+    align-items: left;
+    margin-left: 10px;
+}
+
+.card:hover {
+    background-color:gray;
+}
