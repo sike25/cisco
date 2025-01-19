@@ -1,5 +1,6 @@
 # CISCO virtual experience 
-The tasks for the CISCO Virtual Experience on Forage
+The tasks for the CISCO Virtual Experience on Forage    
+Displaying results from a HTTP request to the ipify API on a React dashboard
 
 ## Task Five: Final Task
 Create a short video with OBS showcasing Sextant.
